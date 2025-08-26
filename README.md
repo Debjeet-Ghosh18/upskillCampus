@@ -58,5 +58,5 @@ pip install -r requirements.txt
 python dashboard/app.py
 
 
-Then open http://localhost:8050
+Then open [http://localhost:8050](http://127.0.0.1:8050)
  in your browser 🚀
